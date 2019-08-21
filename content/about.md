@@ -1,7 +1,7 @@
 ---
 title: About
 menu: main
-draft: true
+draft: false
 ---
 > **Previously**, I worked with GLG for nearly a year. Me and my team got to work on one particular project at scale, where I lead the migration to a new & improved service we created, saving $1M/yr in infrastructure costs.
 >
