@@ -5,7 +5,7 @@ baseurl: /
 canonicalurl: true
 theme: hyde
 date:
-  format: j F Y
+  format: F j Y
   timezone: US/Eastern
 pagination:
   max: 5
