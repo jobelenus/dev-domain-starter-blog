@@ -2,7 +2,9 @@
 title: MVP means lots of different things.
 date: 2019-02-20T17:36:38.514Z
 tags:
-  - MVP SoftwareEngineering Semantics
+  - MVP
+  - Software Engineering
+  - Semantics
 draft: false
 ---
 Whenever someone uses the acronym MVP, Minimum Viable Product, I feel that we should make them explain what they are actually talking about. There are lots of things folks call an MVP, that totally miss the point. Here are a few humorous ones I’ve encountered:
