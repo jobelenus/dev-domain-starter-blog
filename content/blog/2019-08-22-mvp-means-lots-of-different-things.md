@@ -13,7 +13,7 @@ Whenever someone uses the acronym MVP, Minimum Viable Product, I feel that we sh
 
 And then of course there is the engineer backlash against MVP concepts, which is totally justified:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Okay so we’re gonna do the mvp of this bridge. Just enough engineering to stand it up. Once we get a few thousand cars going over it a day we will hopefully get a seed round and go back and fix the tech debt</p>&mdash; Scott C. Reynolds - My Name is Already Fairly Long (@scottcreynolds) <a href="https://twitter.com/scottcreynolds/status/1095892990600626178?ref_src=twsrc%5Etfw">February 14, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Okay so we’re gonna do the mvp of this bridge. Just enough engineering to stand it up. Once we get a few thousand cars going over it a day we will hopefully get a seed round and go back and fix the tech debt</p>&mdash; Scott C. Reynolds - My Name is Already Fairly Long (@scottcreynolds) <a href="https://twitter.com/scottcreynolds/status/1095892990600626178?ref_src=twsrc%5Etfw">February 14, 2019</a></blockquote>
 
 And then of course, this graphic, which kicked off a giant bike-shedding session:
 
