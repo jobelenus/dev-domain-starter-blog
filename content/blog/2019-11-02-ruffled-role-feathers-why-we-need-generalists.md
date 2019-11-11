@@ -8,7 +8,7 @@ draft: false
 ---
 This image has been the source of a lot of consternation lately. It seems that a lot of people think the role of "Full Stack Developer" is "way too many things for one person to possibly know", and consequently "if anyone claims to know all this, they must be fibbing."
 
-I don't think there is a problem with the role of Full Stack Developer. Disclaimer: I am one. Obviously I am biased, but clearly I am not the only one who thinks this arrangement is a good thing. Full Stack is a generalist role. We need generalists. With all the talk of how good "T-Shaped" individuals are for organizations, I'm surprised to hear as much negative press for the role as I do.
+<!-- excerpt -->I don't think there is a problem with the role of Full Stack Developer. Disclaimer: I am one. Obviously I am biased, but clearly I am not the only one who thinks this arrangement is a good thing. Full Stack is a generalist role. We need generalists. With all the talk of how good "T-Shaped" individuals are for organizations, I'm surprised to hear as much negative press for the role as I do.<!-- break -->
 
 There are some problems with this image though. It exaggerates the issue on the "top bun". Everyone loves to pick on the browser, CSS, and JavaScript. 
 
