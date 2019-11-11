@@ -28,4 +28,4 @@ Why do we need generalists? The single most expensive part of every single proje
 
 When you know the full stack, you can be sure that all the pieces are going to fit. You can be amazed at what an expert can do—but you know where it fits in with everything else. You know if any of their choices may cause a problem with another choice in your stack. If no one can see through the entire stack problems and issues will surprise you. Engineering departments hate surprises.
 
-Make sure someone in your org can eat the whole burger!
+Make sure someone in your org can eat the whole burger.
