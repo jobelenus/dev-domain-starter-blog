@@ -10,14 +10,16 @@
 
 {% block content %}
       <h1 class="page-title">{{ page.title }}</h1>
-      <div class="pages"><!-- YES -->
+      <div class="pages">
 {% for p in pages %}
         <div class="page">
           <h2 class="page-title">
             <a href="{{ url(p) }}">{{ p.title|e }}</a>
           </h2>
           <span class="page-date">{{ p.date|date("j M Y") }}</span>
-          {{ p.content|excerptHtml }}
+          {{ p.content|excerptHtml }}..
+          
+          <p>Read more: {{ page.title }}</p>
         </div>
 {% endfor %}
       </div>
