@@ -5,9 +5,9 @@ tags:
   - culture
 draft: false
 ---
-<!-- excerpt -->I just finished Ben Horowitz's _"What You Do Is Who You Are"_. I want to focus on the biggest lesson I took from the book about creating your own culture. I sum it up in this way; **there is a specific belief or outlook you have, that others do not, which will determine the level of success of your endeavor**.
+I just finished Ben Horowitz's _"What You Do Is Who You Are"_. I want to focus on the biggest lesson I took from the book about creating your own culture. I sum it up in this way; **there is a specific belief or outlook you have, that others do not, which will determine the level of success of your endeavor.**
 
-It made me ask the question of myself.<!-- break --> First off, my general "endeavor" has always been a well-functioning Engineering department, especially regarding "the Product" and Product Management. I admit, this is not the culture of a whole company that is looking to either "change the world" (Ha!).
+It made me ask the question of myself. First off, my general "endeavor" has always been a well-functioning Engineering department, especially regarding "the Product" and Product Management. I admit, this is not the culture of a whole company that is looking to either "change the world" (Ha!).
 
 I think everyone would agree that "not wasting other people's time" is an obvious thing we all agree about. However, I don't think most people actually take it seriously. One example from the book that I appreciate is from Bezos at Amazon. Meetings have agendas. They take the form of a written explanation/argument, it is not merely a set of bullet points. Every meeting starts with silence—while everyone reads the agenda. This also necessitates being on time. If everyone came on time, and was prepared, because they read the agenda beforehand, and learned what they needed to know, and read the agenda again—to get their head in the right spot for the meeting—you can finally have a productive meeting. Making shocking rules around being prepared for meetings, and living by those rules really has the chance to shorten those OODA loops, so you can waste less time as an organization, and have better reactions to the world.
 
