@@ -3,7 +3,7 @@ title: What Is My Culture?
 date: 2019-11-11T16:46:01.015Z
 tags:
   - culture
-draft: true
+draft: false
 ---
 <!-- excerpt -->I just finished Ben Horowitz's _"What You Do Is Who You Are"_. I want to focus on the biggest lesson I took from the book about creating your own culture. I sum it up in this way; **there is a specific belief or outlook you have, that others do not, which will determine the level of success of your endeavor.**
 
