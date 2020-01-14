@@ -3,7 +3,7 @@ title: My Own (New) Management Reflections
 date: 2020-01-14T21:10:22.242Z
 draft: false
 ---
-I'm nearing the sixth month mark in my $latestGig, and my role has turned into a product and people management role. I was hoping this would happen, but not before I got to fully build something myself. Such is life, ruining a well formulated plan.
+I'm nearing the six month mark in my $latestGig, and my role has turned into a product and people management role. I was hoping this would happen, but not before I got to fully build something myself. Such is life, ruining a well formulated plan.
 
 I've done the customer-facing part of Product Management before as a consultant. But this time around I have learned that Product management is as much about getting alignment and agreement within your org about what to build as it is with users. There is less convincing required, but more prodding for the answer to: "And how does this effect you and your department's plans?" Of course this one runs both ways. Announced changes require getting involved to make sure that your services are still receiving everything they need, especially with new rollouts.
 
