@@ -3,7 +3,7 @@ title: Engineering Speed is a Symptom
 date: 2020-02-02T02:43:43.968Z
 draft: false
 ---
-I think the speed of a team is the result of a function, it is the symptom of a working environment. It doesn’t happen by simply standing up and demanding that people work faster. Engineering teams deliver quickly when they have confidence. I don’t mean individual self-confidence, or a level on Maslow’s hierarchy of needs. And I certainly don’t mean the overconfidence of someone’s ego.
+I think the speed of a team is the result of a function, it is the symptom of a working environment. It doesn’t happen by simply standing up and demanding that people work faster. Engineering teams deliver quickly when they have confidence. I don’t mean individual self-confidence, or a level on Maslow’s hierarchy of needs. And I certainly don’t mean the overconfidence of someone’s ego. That function is transferable experience of production systems, that results in engineering speed. A working environment is one that produces this transferable experience in engineers.
 
 This is what my experience as a Technical Lead has taught me. Each individual has their own baseline, and their own limits. Not everyone shows up to work together starting in the same mental place. And not every company needs the same pace—a seed startup and a publicly traded company need different pieces at different speeds. There are always impediments and roadblocks that slow anyone down. Confidence comes from experience, and the experiences required, I think, are very specific. You know people have the right kind of experience its transferable. That means they come into a new scenario confident—and deliver on that confidence. But first I want to talk about what I believe are red-herrings.
 
