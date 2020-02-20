@@ -2,7 +2,8 @@
 title: Code As Communication
 date: 2020-02-20T15:43:27.917Z
 tags:
-  - SoftwareEngineering LeadDeveloper
+  - SoftwareEngineering
+  - LeadDeveloper
 draft: false
 ---
 I'm fond of saying that code has no value until it is running in production. I still believe that is a correct and important statement. But I want to qualify that statement to say that code has no **performative** **value** until it is running in production. No one's job is complete, its not "done" until its running in prod.
