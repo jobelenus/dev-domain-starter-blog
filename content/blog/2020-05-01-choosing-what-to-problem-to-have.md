@@ -1,5 +1,5 @@
 ---
-title: Choosing What To Problem To Have
+title: Choosing What Problem To Have
 date: 2020-05-01T11:46:52.790Z
 draft: false
 ---
