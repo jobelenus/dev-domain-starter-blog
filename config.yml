@@ -3,28 +3,16 @@ baseline: Keeping the chaos at bay
 description: Solving Problems & Saving Time through Software and Crushing Entropy
 baseurl: /
 canonicalurl: true
-theme: hyde
+author: John Obelenus
 date:
   format: F j Y
   timezone: US/Eastern
-pagination:
-  max: 5
-  path: page
-output:
-  formats:
-    netlify_redirects:
-      extension: ''
-      mediatype: text/plain
-virtualpages:
-  _redirects:
-    output: netlify_redirects
-  admin:
-    layout: admin/index
-    title: Content Manager (Netlify CMS)
-    output: html
-netlify:
-  cms:
-    path: admin
-    version: latest
-  identity:
-    version: v1
+theme:
+  - hyde
+  - netlify
+  - netlify-cms
+hyde:
+  sidebar:
+    sticky: true # Content to the bottom of the sidebar
+  theme: '' # red, orange, yellow, green, cyan, blue, magenta, brown or cecil
+  reverse: false # Reverse layout

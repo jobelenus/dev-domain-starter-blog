@@ -17,8 +17,8 @@
             <a href="{{ url(p) }}">{{ p.title|e }}</a>
           </h2>
           <span class="page-date">{{ p.date|date("j M Y") }}</span>
-          {{ p.content|excerptHtml }}
-          
+          {{ p.content|excerpt_html }}
+
           <p><strong>Read more: <a href="{{ url(p) }}">{{ p.title|e }}</a></strong></p>
         </div>
 {% endfor %}
