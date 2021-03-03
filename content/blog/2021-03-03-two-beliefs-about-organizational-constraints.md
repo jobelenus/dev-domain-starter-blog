@@ -7,15 +7,15 @@ I am sure the majority of managers in my industry would recognize Goodhart's law
 
 > When a measure becomes a target, it ceases to be a good measure
 
-What surprises me is how often this maxim gets forgotten! Whenever there are discussions about quantifying "How good are our estimates?", "Is our productivity increasing or decreasing?", or "Are our teams happy and healthy?" folks routinely believe that these questions can targeted for improvement by (more or less) direct measurement.
+What surprises me is how often this maxim gets forgotten! Whenever there are discussions about quantifying "How good are our estimates?", "Is our productivity increasing or decreasing?", or "Are our teams happy and healthy?" folks routinely believe that these questions can be targeted for improvement by (more or less) direct measurement.
 
-Management routinely accepts that with humans "by observing something you change its behavior." They understand that the measurement will have some margin for error and believe "it is close enough." And they are probably correct. It is likely that its close enough.
+Management routinely accepts that with humans "by observing something you change its behavior." They understand that the measurement will have some margin for error and believe "it is close enough." And they are probably correct. It is likely that it is close enough.
 
-Once an engineer knows you're monitoring their productivity, and then you set productivity targets their ears start burning. Now they know that their next promotion relies on the productivty improving. They know their favorability within the org relies on productivty remaining the same. And, they know that if their productivity ever goes down they might get fired. And somehow management believes they will still have an honest measurement of productivity?
+Once an engineer knows you're monitoring their productivity, and then you set productivity targets their ears start burning. Now they know that their next promotion relies on productivity improvement. They know their favorability within the org relies on productivity remaining the same. And, they know that if their productivity ever goes down they might get fired. And somehow management believes they will still have an honest measurement of productivity?
 
 Managers have to realize that they cannot have their cake and eat it too. I believe this is a constraint when creating a well-functioning organization. If you're interested in quantifying these kinds of things, you can not also talk about "making estimates better" or "increasing productivity" . I truly believe once you do that the game is over, and slowly but surely you will lose the trust of your team.
 
-If that isn't controversial enough for you try this one on for size. Common wisdom for increasing the productivity of your startup is to hire more people—repid growth! I believe that is incorrect, it is only part of the story, at best.
+If that isn't controversial enough for you try this one on for size. Common wisdom for increasing the productivity of your startup is to hire more people—rapid growth! I believe that is incorrect, it is only part of the story, at best.
 
 Hiring people increases your potential capacity—not "real" capacity. Real capacity is how many things you can do at once. Potential capacity is about how many things you can do at once in the future. I think Will Larson illustrates the problems with rapid growth where you are always hiring more people:
 
