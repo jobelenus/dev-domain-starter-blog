@@ -1,7 +1,7 @@
 ---
 title: Engineering in the Time of Product Market Fit
 date: 2021-04-03T11:28:18.284Z
-draft: true
+draft: false
 ---
 I love reading the latest blog posts from the Slack Engineering team, Will Larsen and the Stripe crew, and the fingers-crossed-occasional post-mortem on painful outages. They are a treasure both to observe how these teams are operating and because freely sharing knowledge and experience is rare today. I am jealous to have the experience of service migrations under the load of tens of thousands of daily active users, or even millions. It creates a whole new level of challenge.
 
