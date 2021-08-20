@@ -23,4 +23,4 @@ Management will not have to question whether or not their critical people are en
 
 Engineers, not to mention other departments, customer support and QA, are not left wondering whether their perspectives are being heard by their immediate managers. And they don't have to guess how much those managers have to fight for those perspectives to be heard. There is a clear and agreed upon process to roll those concerns up for these teams to define their own work, their own future.
 
-If you are a manager, director, or executive, and you don't think your employees leave in order to get a chance to define their own work, you should take some skip level meetings, build some trust, and get their perspectives. After all, "People don't leave their companies, they leave their managers." If people
+If you are a manager, director, or executive, and you don't think your employees leave in order to get a chance to define their own work, you should take some skip level meetings, build some trust, and get their perspectives. After all, "People don't leave their companies, they leave their managers."
