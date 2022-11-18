@@ -19,4 +19,6 @@ H﻿ow many things does this operator need to remember (Knowledge in the Head) v
 
 O﻿nce we're working with a product or system that is operated by a group, or multiple groups, of people we have to stop considering the fact that we know one of the individual humans who is operating it. "I know Steve, Steve is great at his job. This is a little complicated, but he can handle it." We have to consider how many other people are also operating it, who no doubt are also good at their job. But that we are all simply human, and our ability to perform & operate varies all the time due to an uncountable number of factors.
 
-D﻿esigning with empathy is not about pitying these people, or even thinking you're better than them (you're not). It is about designing for the worst outcomes and making sure your system and product support what the humans need in the face of those worst outcomes.
+D﻿emanding a standard of "just be better and don't make mistakes next time" is not a valid approach you can have towards operators.
+
+D﻿esigning with empathy is not about pitying people, or even thinking you're better than them (you're not). It is about designing for the worst outcomes and making sure your system and product support what the humans need in the face of those worst outcomes.
