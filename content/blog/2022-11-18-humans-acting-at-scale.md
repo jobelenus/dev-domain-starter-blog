@@ -3,9 +3,9 @@ title: Humans Acting At Scale
 date: 2022-11-18T16:53:26.424Z
 draft: false
 ---
-T﻿he aphorism "A person is smart, but people are stupid" has always stood out to me. It never sit right. If an element of a set contains a property, then the set ought to exhibit the same property. Right?! Well, what are we really trying to communicate when we say this?
+T﻿he aphorism "A person is smart, but people are stupid" has always stood out to me. It never sat right. If an element of a set contains a property, then the set ought to exhibit the same property. Right?! Well, what are we really trying to communicate when we say this?
 
-I think one aspect of what we're trying to say is that when we take a given person in a situation, we're probably imagining that person at their best. Any given person in their best moment, ready, willing and focused, it going to behave as intelligently as they possibly can.
+I think one aspect of what we're trying to say is that when we take a given person in a situation, we're probably imagining that person at their best. Any given person in their best moment, ready, willing and focused, is going to behave as intelligently as they possibly can.
 
 B﻿ut what are we saying about "people" in groups? We're no longer imagining one situation, but all situations. And not when any of those given people are at their best, but everywhere along the Bell curve of their possible performance.
 
