@@ -9,7 +9,7 @@ W﻿hen we talking about "who owns what" most commonly I hear people discuss it 
 * "﻿Who owns this page in the application?"
 * "﻿We don't own that!"
 
-The way people talk about ownership betray my most important values. This is how I translate that kind of talk; "We don't want to touch it", "It is their responsibility", "I am not allowed". You may not want to touch it, but if its in the way of doing your job, I want to see you activate, not wait around for someone else. It may in fact be someone else's responsibility—that doesn't help us make progress in the moment. Do you mean someone is penalizing you? Who are they?
+The way people talk about ownership betray my most important values. This is how I translate that kind of talk; "We don't want to touch it", "It is their responsibility", "I am not allowed". You may not want to touch it, but if its in the way of doing your job, I want to see you activate, not wait around for someone else. It may in fact be someone else's responsibility—that doesn't help us make progress in the moment. Do you mean someone is actually penalizing you when you tried?
 
 I value people who activate, get involved, make decisions, and finish work. Every one of these questions avoids getting involved, looks to someone else to make a decision, and does nothing to finish. 
 
