@@ -17,7 +17,7 @@ Creating the psychological safety for people to do something they've never reall
 
 1. Learn what they are interested in doing here. There is no point in trying to instruct them on how to do something they don't want to do!
 2. Learn if there are any injuries or bodily limitations they have. We have specific equipment and routines to address many common ailments.
-3. Demonstrate the movements and lifts they are interested to them. Point out specific crucial elements that will make them successful.
+3. Demonstrate the movements and lifts they are interested in. Point out specific crucial elements that will make them successful.
 4. Ask them to demonstrate the movements with just the bar and point out adjustments in real time. Tell them: "You see them over there, lifting all that weight, they started with just this bar too. I started with just the bar. Everyone starts with just the bar."
 5. Demonstrate how to safely dump the weight in case of a failed lift. This is how you avoid hurting yourself when you are near your limits.
 6. Tell them they can always ask anyone in the gym to spot them.
